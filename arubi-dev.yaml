@@ -37,4 +37,4 @@ mybatis:
   #  config-location: classpath:mybatis/mybatis-config.xml
   mapper-locations: classpath:/mapper/*.xml
 config:
-  info: http://eurake-7390.com:7390/eureka,http://eurake-7391.com:7391/eureka
+  info: hello,world
